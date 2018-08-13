@@ -1,0 +1,3 @@
+INSERT INTO user (username, password, enabled, role) VALUES ('user', '$2a$10$4eqIF5s/ewJwHK1p8lqlFOEm2QIA0S8g6./Lok.pQxqcxaBZYChRm', true, 'USER');
+INSERT INTO user (username, password, enabled, role) VALUES ('admin', '$2a$10$4eqIF5s/ewJwHK1p8lqlFOEm2QIA0S8g6./Lok.pQxqcxaBZYChRm', true, 'ADMIN');
+INSERT INTO user (username, password, enabled, role) VALUES ('ravi', '$2a$10$4eqIF5s/ewJwHK1p8lqlFOEm2QIA0S8g6./Lok.pQxqcxaBZYChRm', true, 'USER');

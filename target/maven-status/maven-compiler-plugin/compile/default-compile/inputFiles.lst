@@ -1,0 +1,16 @@
+F:\Projects\UserRegistrationSystem\src\main\java\com\hust\exception\FieldValidationError.java
+F:\Projects\UserRegistrationSystem\src\main\java\com\hust\dto\UserInfo.java
+F:\Projects\UserRegistrationSystem\src\main\java\com\hust\exception\MessageType.java
+F:\Projects\UserRegistrationSystem\src\main\java\com\hust\UserRegistrationSystemApplication.java
+F:\Projects\UserRegistrationSystem\src\main\java\com\hust\exception\RestValidationHandler.java
+F:\Projects\UserRegistrationSystem\src\main\java\com\hust\repository\UserJpaRepository.java
+F:\Projects\UserRegistrationSystem\src\main\java\com\hust\Rest\UserRegistrationRestController.java
+F:\Projects\UserRegistrationSystem\src\main\java\com\hust\UserRegistrationConfiguration.java
+F:\Projects\UserRegistrationSystem\src\main\java\com\hust\exception\CustomErrorType.java
+F:\Projects\UserRegistrationSystem\src\main\java\com\hust\dto\UserDTO.java
+F:\Projects\UserRegistrationSystem\src\main\java\com\hust\exception\FieldValidationErrorDetails.java
+F:\Projects\UserRegistrationSystem\src\main\java\com\hust\Rest\ServiceAuthenticate.java
+F:\Projects\UserRegistrationSystem\src\main\java\com\hust\SpringSecurityConfiguration.java
+F:\Projects\UserRegistrationSystem\src\main\java\com\hust\repository\UserInfoJpaRepository.java
+F:\Projects\UserRegistrationSystem\src\main\java\com\hust\client\UserRegistrationClient.java
+F:\Projects\UserRegistrationSystem\src\main\java\com\hust\service\UserInfoDetailsService.java
